@@ -1,0 +1,17 @@
+patient_id,age,condition,risk_score
+001,45,Hypertension,0.72
+002,62,Diabetes,0.81
+003,29,Asthma,0.33
+004,54,Heart Disease,0.90
+005,37,Obesity,0.65
+
+
+
+
+
+
+
+
+
+
+
